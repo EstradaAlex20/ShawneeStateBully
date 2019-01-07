@@ -37,7 +37,7 @@ Finishing a quest
 ## Authors
 
 * **Alex Estrada** - [EstradaAlex20](https://github.com/EstradaAlex20)
-* **Eric McCaw** - No Github
+* **Eric McCaw** - [EricMcCaw](https://github.com/EricMcCaw)
 * **Brady Carrel** - No Github
 * **Zach Starkey** - No Github
 * **Sebastian Kurgunayev** - [sab1ks](https://github.com/sab1ks)
