@@ -1,0 +1,7 @@
+n:2
+c:2
+s:I wanted to go to the bathroom, but someone is in there.
+a1:Why not just go in anyway?
+a2:Why was he in the bathroom?
+q1:I can't pee with other people around.
+q2:Why do you think?

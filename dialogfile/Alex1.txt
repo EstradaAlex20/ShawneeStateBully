@@ -1,0 +1,7 @@
+n:2
+c:2
+s:I think there is a guy in the bathroom with a secret
+a1:that's weird
+a2:that's hot
+q1:well, it's pretty normal around here.
+q2:that's weird

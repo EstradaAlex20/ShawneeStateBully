@@ -1,0 +1,8 @@
+n:2
+c:2
+s:you got those books yet
+a1:no
+a2:yes
+q1:get them then its not hard!!!
+q2:you liar I wouldn't have this conversation with you.
+

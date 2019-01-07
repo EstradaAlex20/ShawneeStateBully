@@ -1,0 +1,7 @@
+n:2
+c:2
+s:Did you take the 1803 final? What did you get for number 4?
+a1:A vector from A to B
+a2:A vector from B to A
+q1:oh man... my answer was 4
+q2:oh man... my answer was 4

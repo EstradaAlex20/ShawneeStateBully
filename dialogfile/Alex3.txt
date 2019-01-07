@@ -1,0 +1,7 @@
+n:2
+c:2
+s:I keep seeing books all over. There is a guy in the bathroom eating them.
+a1:Why was he eating them??
+a2:Why was he in the bathroom?
+q1:That's how you gain their information right?
+q2:That's kind of personal isn't it?

@@ -1,0 +1,6 @@
+CHARACTER
+Name:Jason
+Position:30,25
+start:"Bring me 5 books and I'll tell you a secret."
+during:"Where are the books?"
+end:"Thanks for the books nerd!"
