@@ -1,0 +1,18 @@
+name =jason
+cord =51,14
+dialog =jasonsdia.txt
+sprite_down =images\\char1\\facing-down-1.png
+sprite_down =images\\char1\\facing-down-2.png
+sprite_down =images\\char1\\facing-down-3.png
+sprite_up =images\\char1\\facing-up-1.png
+sprite_up =images\\char1\\facing-up-2.png
+sprite_up =images\\char1\\facing-up-3.png
+sprite_left =images\\char1\\facing-left-1.png
+sprite_left =images\\char1\\facing-left-2.png
+sprite_left =images\\char1\\facing-left-3.png
+sprite_right =images\\char1\\facing-right-1.png
+sprite_right =images\\char1\\facing-right-2.png
+sprite_right =images\\char1\\facing-right-3.png
+
+
+break

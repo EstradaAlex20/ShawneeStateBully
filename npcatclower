@@ -1,0 +1,77 @@
+name =jason
+cord = 150 , 150
+dialog =jasonsdia.txt
+<<<<<<< .minesprite_down =images\\char4\\facing-down-1.png
+sprite_down =images\\char4\\facing-down-2.png
+sprite_down =images\\char4\\facing-down-3.png
+sprite_up =images\\char4\\facing-up-1.png
+sprite_up =images\\char4\\facing-up-2.png
+sprite_up =images\\char4\\facing-up-3.png
+sprite_left =images\\char4\\facing-left-1.png
+sprite_left =images\\char4\\facing-left-2.png
+sprite_left =images\\char4\\facing-left-3.png
+sprite_right =images\\char4\\facing-right-1.png
+sprite_right =images\\char4\\facing-right-2.png
+sprite_right =images\\char4\\facing-right-3.png
+=======sprite_down =images\\char3\\facing-down-1.png
+sprite_down =images\\char3\\facing-down-2.png
+sprite_down =images\\char3\\facing-down-3.png
+sprite_up =images\\char3\\facing-up-1.png
+sprite_up =images\\char3\\facing-up-2.png
+sprite_up =images\\char3\\facing-up-3.png
+sprite_left =images\\char3\\facing-left-1.png
+sprite_left =images\\char3\\facing-left-2.png
+sprite_left =images\\char3\\facing-left-3.png
+sprite_right =images\\char3\\facing-right-1.png
+sprite_right =images\\char3\\facing-right-2.png
+sprite_right =images\\char3\\facing-right-3.png
+>>>>>>> .theirs
+break
+
+name =jeff
+cord =120,150 160,200
+dialog =jasonsdia.txt
+sprite_down =images\\char3\\facing-down-1.png
+sprite_down =images\\char3\\facing-down-2.png
+sprite_down =images\\char3\\facing-down-3.png
+sprite_up =images\\char3\\facing-up-1.png
+sprite_up =images\\char3\\facing-up-2.png
+sprite_up =images\\char3\\facing-up-3.png
+sprite_left =images\\char3\\facing-left-1.png
+sprite_left =images\\char3\\facing-left-2.png
+sprite_left =images\\char3\\facing-left-3.png
+sprite_right =images\\char3\\facing-right-1.png
+sprite_right =images\\char3\\facing-right-2.png
+sprite_right =images\\char3\\facing-right-3.png
+sprite_down =images\\char4\\facing-down-1.png
+sprite_down =images\\char4\\facing-down-2.png
+sprite_down =images\\char4\\facing-down-3.png
+sprite_up =images\\char4\\facing-up-1.png
+sprite_up =images\\char4\\facing-up-2.png
+sprite_up =images\\char4\\facing-up-3.png
+sprite_left =images\\char4\\facing-left-1.png
+sprite_left =images\\char4\\facing-left-2.png
+sprite_left =images\\char4\\facing-left-3.png
+sprite_right =images\\char4\\facing-right-1.png
+sprite_right =images\\char4\\facing-right-2.png
+sprite_right =images\\char4\\facing-right-3.png
+
+break
+
+name =jeff1
+cord =127,171 134,171
+dialog =jasonsdia.txt
+sprite_down =images\\char3\\facing-down-1.png
+sprite_down =images\\char3\\facing-down-2.png
+sprite_down =images\\char3\\facing-down-3.png
+sprite_up =images\\char3\\facing-up-1.png
+sprite_up =images\\char3\\facing-up-2.png
+sprite_up =images\\char3\\facing-up-3.png
+sprite_left =images\\char3\\facing-left-1.png
+sprite_left =images\\char3\\facing-left-2.png
+sprite_left =images\\char3\\facing-left-3.png
+sprite_right =images\\char3\\facing-right-1.png
+sprite_right =images\\char3\\facing-right-2.png
+sprite_right =images\\char3\\facing-right-3.png
+
+break
