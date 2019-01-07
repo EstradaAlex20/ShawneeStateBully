@@ -1,0 +1,32 @@
+[header]
+width=3
+height=3
+tilewidth=32
+tileheight=32
+orientation=orthogonal
+background_color=0,0,0,255
+
+[tilesets]
+tileset=../images/DungeonCrawl_ProjectUtumnoTileset.png,32,32,0,0
+
+[layer]
+type=Tile Layer 1
+data=
+968,968,968,
+968,968,968,
+968,968,968
+
+[layer]
+type=Tile Layer 2
+data=
+1476,1476,776,
+1476,1476,1476,
+1476,1476,1476
+
+[layer]
+type=Tile Layer 3
+data=
+1606,1606,1606,
+1606,1606,1606,
+1606,1606,1606
+
