@@ -38,8 +38,8 @@ Finishing a quest
 
 * **Alex Estrada** - [EstradaAlex20](https://github.com/EstradaAlex20)
 * **Eric McCaw** - [EricMcCaw](https://github.com/EricMcCaw)
-* **Brady Carrel** - No Github
-* **Zach Starkey** - No Github
+* **Brady Carrel** - [BradC0](https://github.com/BradC0)
+* **Zach Starkey** - [TheEpicKnight91](https://github.com/TheEpicKnight91)
 * **Sebastian Kurgunayev** - [sab1ks](https://github.com/sab1ks)
 
 
